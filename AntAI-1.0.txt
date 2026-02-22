@@ -1,0 +1,27 @@
+AntAI License
+Version 1.0
+Last changes made 22/02/2026 (dd/mm/yyyy)
+
+START OF TERMS AND CONDITIONS
+
+1) Definitions
+ "Work" references the object, content, media, or document that is protected by this license.
+ "Licenser", "Owner", "Creator", "Author" references the author or creator of the Work.
+ "You" references any person that uses, views, or interacts in any way with the Work.
+ "§" means "Section", and is used to reference any section of this license, being the text below the headers formatted as "{section number}) {section name}".
+ "AI", "LLM" references Artificial Intelligence, Large Language Models, or any other application or program designed to learn and generate answers (such as but not limited to ChatGPT, Gemini, and Claude). The owners or companies that are entirely focused around the creation and/or development of Artificial Intelligence or Large Language Models are included in this list. Please note that Google or any search engine are not considered Artificial Intelligence or Large Language Models, as they provide ways to access answers but do not generate the answers.
+
+2) Loopholes
+ a. The use of loopholes to abuse this license is not allowed. When applying the rules of this license, good faith must be used.
+ b. Loopholes are "means of escape or evasion; a means or opportunity of evading a rule, law, etc.." (https://www.dictionary.com/browse/loophole).
+
+3) Use of the Work
+ The Work cannot be:
+  a. used or redistributed for malicious purposes, 
+  b. 'fed' to any Artificial Intelligence or Large Language Model (see §4 for more information),
+  c. used or redistributed for purposes that may earn You money, rewards, or any prize or gift, without the Author's consent,
+  d. used or redistribued without a clear and accessible declaration that the Work is the property of the Author.
+
+4) Artificial Intelligence and Large Language Models
+ a. The Work shall not be distributed or 'fed' to an AI or LLM without the Author's consent.
+ 
